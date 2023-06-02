@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhUkmcIVTT+kaDCrHp94CgGQPLLsYmDVNPi5skGRahRwuQETuBxgK43zqIbguq1xAJZtcDv2ToeFRYbN9+GI9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WEI\\Desktop\\新建文件夹 (2)\\Topological-Sorting\\拓扑排序.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WEI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
